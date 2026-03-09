@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <record id="action_qhuube_website" model="ir.actions.act_url">
+        <field name="name">Qhuube</field>
+        <field name="type">ir.actions.act_url</field>
+        <field name="url">https://qhuube.com</field>
+        <field name="target">new</field>
+    </record>
+
+    <menuitem id="menu_qhuube_root"
+              name="Qhuube"
+              sequence="10"
+              action="action_qhuube_website"/>
+
+</odoo>
