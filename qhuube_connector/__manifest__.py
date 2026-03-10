@@ -1,5 +1,5 @@
 {
-    "name": "Qhuube",
+    "name": "VAT OSS & ViDA Reporting - Qhuube",
     "version": "1.0.1",
     "summary": "EU VAT OSS reporting and compliance platform for Odoo",
     "author": "Qhuube",
